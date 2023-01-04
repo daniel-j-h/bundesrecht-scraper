@@ -18,11 +18,12 @@ jobs:
     - name: Install xmllint
       run: sudo apt-get install -y libxml2-utils
 
-    - name: Fetch
-      run: |-
-        curl -sf --proto =https --tlsv1.3 https://www.gesetze-im-internet.de/gii-toc.xml | xmllint --format - > gii-toc.xml
+    - name: Scrape
+      run: ./scrape.sh
 
     - name: Commit
+      env:
+        MASTODON_TOKEN: ${{ secrets.MASTODON_BOTSINSPACE_API_ACCESS_TOKEN }}
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
@@ -30,3 +31,5 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+
+        ./notify.sh
