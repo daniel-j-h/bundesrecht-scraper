@@ -32,4 +32,4 @@ jobs:
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
 
-        ./notify.sh
+        ./notify.sh || exit 0
