@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Document Type Definition<br />
+	Erstellt von:	juris GmbH<br />
+	Im Auftrag des Bundesministeriums der Justiz<br />
+	Version:		1.0<br />
+	Erzeugt am:		03.07.2013<br /> 
+	Datei:			gii-toc.dtd<br />
+
+	Diese DTD definiert den Aufbau des XML-Formats zur Ver&ouml;ffentlichung des Inhaltsverzeichnisses bzgl. aller aktuell im Internetangebot www.gesetze-im-internet.de verf&uuml;gbaren xml.zip-Dateien
+-->
+<!-- @title Gesetze im Internet/Definition des XML-Formats des Inhaltsverzeichnisses bzgl. aller verf&uuml;gbaren xml.zip-Dateien 
+     @root items -->
+
+<!-- Root-Element der DTD.<br />
+     Es gibt keinen Metadatenbereich, nur einen Inhaltsbereich  -->
+<!ELEMENT items (item*)>
+<!-- Container der Informationen zu einer xml.zip-Datei -->
+<!ELEMENT item (title, link)>
+<!-- Langtext-Titel einer Norm -->
+<!ELEMENT title (#PCDATA)>
+<!-- Internetadresse einer xml.zip-Datei -->
+<!ELEMENT link (#PCDATA)>
