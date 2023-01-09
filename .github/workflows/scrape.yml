@@ -3,12 +3,12 @@ name: Scrape
 on:
   push:
   schedule:
-    - cron: '15 6 * * MON-FRI'
+    - cron: '15 6 * * MON'
 
 jobs:
   scheduled:
     runs-on: ubuntu-22.04
-    timeout-minutes: 45
+    timeout-minutes: 100
 
     steps:
 

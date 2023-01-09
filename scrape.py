@@ -51,6 +51,7 @@ def main():
         outdir = datadir / Path(subdir)
         outdir.mkdir(exist_ok=True)
 
+        # low key rate limiting to play nice
         t1 = time.time()
         dt = max(t1 - t0, 0)
 
@@ -61,6 +62,9 @@ def main():
 
         t0 = time.time()
 
+        # TODO: we should decouple fetching from extracting and writing
+        # the extracted files to disk, since the gh runner seems to have
+        # a relatively slow file system; look into this to speed it up
         with ZipFile(BytesIO(zipdata)) as zipfile:
             zipfile.extractall(outdir)
 
