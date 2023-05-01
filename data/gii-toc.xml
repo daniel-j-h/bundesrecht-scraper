@@ -123,6 +123,10 @@
 <link>http://www.gesetze-im-internet.de/dachdarbbv_11/xml.zip</link>
 </item>
 <item>
+<title>Elfte Verordnung über zwingende Arbeitsbedingungen im Maler- und Lackiererhandwerk</title>
+<link>http://www.gesetze-im-internet.de/malerarbbv_11/xml.zip</link>
+</item>
+<item>
 <title>Elfte Verordnung zum Produktsicherheitsgesetz 1</title>
 <link>http://www.gesetze-im-internet.de/gsgv_11_2016/xml.zip</link>
 </item>
@@ -777,10 +781,6 @@
 <item>
 <title>Gesetz zu dem Abkommen vom 23. April 1993 zwischen der Bundesrepublik Deutschland und der Republik Polen über den Autobahnzusammenschluß im Raum Frankfurt/Oder und Schwetig</title>
 <link>http://www.gesetze-im-internet.de/abzuspolabkg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über besondere Anforderungen an Saatgut von Ackerbohnen im Rahmen der Saatgutanerkennung 2023</title>
-<link>http://www.gesetze-im-internet.de/ackerbosaatv_2023/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die Errichtung einer Stiftung Bundeskanzler-Adenauer-Haus</title>
@@ -2809,6 +2809,10 @@
 <item>
 <title>Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes</title>
 <link>http://www.gesetze-im-internet.de/bbig2005_73ano_2015-06/xml.zip</link>
+</item>
+<item>
+<title>Anordnung über die Bestimmung der zuständigen Stelle nach § 73 des Berufsbildungsgesetzes</title>
+<link>http://www.gesetze-im-internet.de/bbig2005_73ano_2023/xml.zip</link>
 </item>
 <item>
 <title>Bekanntmachung der Bestimmung der zuständigen Stelle für den Geschäftsbereich des Bundesministers des Innern nach dem Berufsbildungsgesetz</title>
@@ -6571,10 +6575,6 @@
 <link>http://www.gesetze-im-internet.de/di_teng_ndg_2/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über diätetische Lebensmittel</title>
-<link>http://www.gesetze-im-internet.de/di_tv/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Berufsausbildung zum Kaufmann für Dialogmarketing/zur Kauffrau für Dialogmarketing</title>
 <link>http://www.gesetze-im-internet.de/dialogmkfausbv/xml.zip</link>
 </item>
@@ -9587,7 +9587,7 @@
 <link>http://www.gesetze-im-internet.de/frsaftausbv/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über Fruchtsaft, Fruchtnektar, koffeinhaltige Erfrischungsgetränke und Kräuter- und Früchtetee für Säuglinge oder Kleinkinder</title>
+<title>Verordnung über Fruchtsaft, Fruchtnektar und koffeinhaltige Erfrischungsgetränke</title>
 <link>http://www.gesetze-im-internet.de/frsaftv_2004/xml.zip</link>
 </item>
 <item>
@@ -14063,6 +14063,10 @@
 <link>http://www.gesetze-im-internet.de/lmbestrv_2000/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über Lebensmittel für bestimmte Verbrauchergruppen</title>
+<link>http://www.gesetze-im-internet.de/lmbvv/xml.zip</link>
+</item>
+<item>
 <title>Übereinkommen zur Verhütung der Meeresverschmutzung vom Lande aus</title>
 <link>http://www.gesetze-im-internet.de/lmeersch_bk/xml.zip</link>
 </item>
@@ -17191,6 +17195,10 @@
 <link>http://www.gesetze-im-internet.de/nordbinschhfv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee</title>
+<link>http://www.gesetze-im-internet.de/nordsbefv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz betreffend die Ausführung des internationalen Vertrages vom 16. November 1887/14. Februar 1893 zur Unterdrückung des Branntweinhandels unter den Nordseefischern auf hoher See</title>
 <link>http://www.gesetze-im-internet.de/nordsbrweing/xml.zip</link>
 </item>
@@ -17241,10 +17249,6 @@
 <item>
 <title>Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken und Naturschutzgebieten im Bereich der Küste von Mecklenburg-Vorpommern</title>
 <link>http://www.gesetze-im-internet.de/npbefvmvk/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über das Befahren der Bundeswasserstraßen in Nationalparken im Bereich der Nordsee</title>
-<link>http://www.gesetze-im-internet.de/npnordsbefv/xml.zip</link>
 </item>
 <item>
 <title>Neue-psychoaktive-Stoffe-Gesetz</title>
@@ -23223,6 +23227,10 @@
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_ger_stb_7/xml.zip</link>
 </item>
 <item>
+<title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohnes für gewerbliche Arbeitnehmer im Maler- und Lackiererhandwerk (TV Mindestlohn) vom 16. Dezember 2022</title>
+<link>http://www.gesetze-im-internet.de/tvmindestlohn_maler_11/xml.zip</link>
+</item>
+<item>
 <title>Rechtsnormen des Tarifvertrags zur Regelung eines Mindestlohns im Steinmetz- und Steinbildhauerhandwerk vom 14. Juni 2021 (TV Mindestlohn)</title>
 <link>http://www.gesetze-im-internet.de/tvmindestlohn_steinmetz_4/xml.zip</link>
 </item>
@@ -24441,6 +24449,10 @@
 <item>
 <title>Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung</title>
 <link>http://www.gesetze-im-internet.de/vkfv_ndbek_2022/xml.zip</link>
+</item>
+<item>
+<title>Bekanntmachung der Änderung des Kostensatzes nach § 20 der Verwaltungskostenfeststellungsverordnung</title>
+<link>http://www.gesetze-im-internet.de/vkfv_ndbek_2023/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Versicherungsnummer, die Kontoführung und den Versicherungsverlauf in der gesetzlichen Rentenversicherung</title>
