@@ -4524,15 +4524,19 @@
 </item>
 <item>
 <title>Anordnung über die Ausübung der Disziplinarbefugnisse bei Ruhestandsbeamtinnen und Ruhestandsbeamten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz</title>
-<link>http://www.gesetze-im-internet.de/bmjbdgruano/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/bmjvbdgruano/xml.zip</link>
 </item>
 <item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung bei Klagen in Beihilfeangelegenheiten im Geschäftsbereich des Bundesministeriums der Justiz und für Verbraucherschutz</title>
-<link>http://www.gesetze-im-internet.de/bmjbhwidvertrano/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/bmjvbhwidvertrano/xml.zip</link>
 </item>
 <item>
 <title>Anordnung über die Vertretung der Bundesrepublik Deutschland im Geschäftsbereich des Bundesministeriums der Justiz</title>
 <link>http://www.gesetze-im-internet.de/bmjvertrano_2013/xml.zip</link>
+</item>
+<item>
+<title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen von Beamtinnen und Beamten des Bundesministeriums der Justiz und für Verbraucherschutz in Angelegenheiten der Besoldung, des Dienstunfall-, Reisekosten-, Umzugskosten- und Trennungsgeldrechts</title>
+<link>http://www.gesetze-im-internet.de/bmjvwidvertrano/xml.zip</link>
 </item>
 <item>
 <title>Anordnung über die Ernennung und Entlassung von Bundesbeamten im Geschäftsbereich des Bundesministers für Ernährung, Landwirtschaft und Forsten</title>
@@ -8683,6 +8687,10 @@
 <link>http://www.gesetze-im-internet.de/ezhdlfachwprv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zu dem Abkommen vom 9. Dezember 2022 zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Zentrum für mittelfristige Wettervorhersage über eine Zweigniederlassung des Europäischen Zentrums für mittelfristige Wettervorhersage in Bonn</title>
+<link>http://www.gesetze-im-internet.de/ezmwbnabkv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Gewährung von Erschwerniszulagen</title>
 <link>http://www.gesetze-im-internet.de/ezulv_1976/xml.zip</link>
 </item>
@@ -9799,8 +9807,8 @@
 <link>http://www.gesetze-im-internet.de/fzulganwbek/xml.zip</link>
 </item>
 <item>
-<title>Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr*)</title>
-<link>http://www.gesetze-im-internet.de/fzv_2011/xml.zip</link>
+<title>Verordnung über die Zulassung von Fahrzeugen zum Straßenverkehr</title>
+<link>http://www.gesetze-im-internet.de/fzv_2023/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Ausnahmen von den Vorschriften der Fahrzeug-Zulassungsverordnung</title>
@@ -18039,6 +18047,10 @@
 <link>http://www.gesetze-im-internet.de/pbnubestv_2020/xml.zip</link>
 </item>
 <item>
+<title>Verordnung über die Zuständigkeit des Bundesamtes für Wirtschaft und Ausfuhrkontrolle für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Strompreisbremsegesetz und dem Erdgas-Wärme-Preisbremsengesetz</title>
+<link>http://www.gesetze-im-internet.de/pbowizv/xml.zip</link>
+</item>
+<item>
 <title>Verordnung über die Rechnungs- und Buchführungspflichten der Pflegeeinrichtungen</title>
 <link>http://www.gesetze-im-internet.de/pbv/xml.zip</link>
 </item>
@@ -22957,6 +22969,10 @@
 <item>
 <title>Gesetz zur Vorbeugung vor und Bekämpfung von Tierseuchen</title>
 <link>http://www.gesetze-im-internet.de/tiergesg/xml.zip</link>
+</item>
+<item>
+<title>Gesetz zur Kennzeichnung von Lebensmitteln mit der Haltungsform der Tiere, von denen die Lebensmittel gewonnen wurden*,**</title>
+<link>http://www.gesetze-im-internet.de/tierhaltkennzg/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über Sera, Impfstoffe und Antigene nach dem Tiergesundheitsgesetz</title>
