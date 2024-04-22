@@ -455,8 +455,8 @@
 <link>http://www.gesetze-im-internet.de/bimschv_36/xml.zip</link>
 </item>
 <item>
-<title>Siebenunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes (Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote) 1, 2</title>
-<link>http://www.gesetze-im-internet.de/bimschv_37/xml.zip</link>
+<title>Verordnung zur Neufassung der Siebenunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2 (Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote)</title>
+<link>http://www.gesetze-im-internet.de/bimschv_37_2024/xml.zip</link>
 </item>
 <item>
 <title>Achtunddreißigste Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes 1, 2</title>
@@ -2100,7 +2100,7 @@
 </item>
 <item>
 <title>Gesetz über die Haftpflichtversicherung für ausländische Kraftfahrzeuge und Kraftfahrzeuganhänger</title>
-<link>http://www.gesetze-im-internet.de/auslpflvg/xml.zip</link>
+<link>http://www.gesetze-im-internet.de/auslpflvg_2024/xml.zip</link>
 </item>
 <item>
 <title>Abkommen über deutsche Auslandsschulden</title>
@@ -2433,10 +2433,6 @@
 <item>
 <title>Verordnung über die örtliche Zuständigkeit für Ausbildungsförderung im Ausland</title>
 <link>http://www.gesetze-im-internet.de/baf_gzustv_2004/xml.zip</link>
-</item>
-<item>
-<title>Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben</title>
-<link>http://www.gesetze-im-internet.de/bafzazustano/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über Maßnahmen zur Aufrechterhaltung des Betriebs von Bahnunternehmen des öffentlichen Verkehrs</title>
@@ -4075,6 +4071,10 @@
 <link>http://www.gesetze-im-internet.de/bkag_2018/xml.zip</link>
 </item>
 <item>
+<title>Anordnung des Bundeskanzleramtes zur Übertragung beamtenrechtlicher Zuständigkeiten</title>
+<link>http://www.gesetze-im-internet.de/bkamtzustano/xml.zip</link>
+</item>
+<item>
 <title>Bekanntmachung über den Dienstsitz des Bundeskartellamtes</title>
 <link>http://www.gesetze-im-internet.de/bkartasitzbek/xml.zip</link>
 </item>
@@ -4259,10 +4259,6 @@
 <link>http://www.gesetze-im-internet.de/bkwid_bvtrano/xml.zip</link>
 </item>
 <item>
-<title>Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis sowie über die Vertretung in bürgerlichen oder sonstigen rechtlichen Angelegenheiten im Geschäftsbereich des Bundeskanzleramtes</title>
-<link>http://www.gesetze-im-internet.de/bkwid_vtrano/xml.zip</link>
-</item>
-<item>
 <title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Bundes bei Klagen von Beschäftigten des Bundeskanzleramtes in Angelegenheiten nach dem Bundesreisekostengesetz und der Auslandsreisekostenverordnung einschließlich der hierzu ergangenen Verwaltungsvorschriften</title>
 <link>http://www.gesetze-im-internet.de/bkwid_vtrbrkguaano/xml.zip</link>
 </item>
@@ -4387,6 +4383,14 @@
 <link>http://www.gesetze-im-internet.de/bmfnvano/xml.zip</link>
 </item>
 <item>
+<title>Anordnung zur Übertragung beamten- und haushaltsrechtlicher Zuständigkeiten des Bundesministeriums für Familie, Senioren, Frauen und Jugend auf das Bundesamt für Familie und zivilgesellschaftliche Aufgaben</title>
+<link>http://www.gesetze-im-internet.de/bmfsfjbafzazustano/xml.zip</link>
+</item>
+<item>
+<title>Anordnung des Bundesministeriums für Familie, Senioren, Frauen und Jugend zur Übertragung von Zuständigkeiten in Angelegenheiten der Besoldung, der Beihilfe und der Unfallfürsorge auf das Bundesverwaltungsamt</title>
+<link>http://www.gesetze-im-internet.de/bmfsfjbvabesbeihunffano/xml.zip</link>
+</item>
+<item>
 <title>Anordnung zur Übertragung der örtlichen Zuständigkeit auf dem Gebiet der Soldatenversorgung im Geschäftsbereich des Bundesministeriums der Finanzen</title>
 <link>http://www.gesetze-im-internet.de/bmfsvzustano/xml.zip</link>
 </item>
@@ -4441,14 +4445,6 @@
 <item>
 <title>Anordnung zur Übertragung der Zuständigkeit für die Vertretung des Dienstherrn bei Klagen von Beschäftigten des Bundesinstituts für Berufsbildung im Geschäftsbereich des Bundesministeriums für Bildung und Forschung in Angelegenheiten nach den Beihilfevorschriften des Bundes</title>
 <link>http://www.gesetze-im-internet.de/bminbfzustano/xml.zip</link>
-</item>
-<item>
-<title>Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend</title>
-<link>http://www.gesetze-im-internet.de/bminfsfjwid_bvtrano/xml.zip</link>
-</item>
-<item>
-<title>Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend</title>
-<link>http://www.gesetze-im-internet.de/bminfsfjwid_bvtrano_2001/xml.zip</link>
 </item>
 <item>
 <title>Allgemeine Anordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und die Vertretung des Dienstherrn bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend</title>
@@ -4701,10 +4697,6 @@
 <item>
 <title>Anordnung zur Übertragung disziplinarrechtlicher Zuständigkeiten und Befugnisse im Bereich des Bundesnachrichtendienstes</title>
 <link>http://www.gesetze-im-internet.de/bnddisrzustano/xml.zip</link>
-</item>
-<item>
-<title>Anordnung über die Ernennung und Entlassung von Beamtinnen und Beamten beim Bundesnachrichtendienst</title>
-<link>http://www.gesetze-im-internet.de/bndernano_2009/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über den Bundesnachrichtendienst</title>
@@ -14071,6 +14063,10 @@
 <link>http://www.gesetze-im-internet.de/lf_g/xml.zip</link>
 </item>
 <item>
+<title>Verordnung mit Durchführungsvorschriften über die Verbringung von Lebensmitteln und Futtermitteln in die Europäische Union und über die amtlichen Kontrollen der Verbringung (Lebensmittel-und-Futtermittel-Verbringungs-Verordnung – LFVV)*, **</title>
+<link>http://www.gesetze-im-internet.de/lfvv/xml.zip</link>
+</item>
+<item>
 <title>Gesetz über die Fortzahlung des Arbeitsentgelts im Krankheitsfall und über Änderungen des Rechts der gesetzlichen Krankenversicherung</title>
 <link>http://www.gesetze-im-internet.de/lfz_kvr_ndg/xml.zip</link>
 </item>
@@ -14125,10 +14121,6 @@
 <item>
 <title>Gesetz zu dem Übereinkommen vom 4. Juni 1974 zur Verhütung der Meeresverschmutzung vom Lande aus</title>
 <link>http://www.gesetze-im-internet.de/lmeersch_bkg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Durchführung der veterinärrechtlichen Kontrollen bei der Einfuhr und Durchfuhr von Lebensmitteln tierischen Ursprungs aus Drittländern sowie über die Einfuhr sonstiger Lebensmittel aus Drittländern</title>
-<link>http://www.gesetze-im-internet.de/lmev/xml.zip</link>
 </item>
 <item>
 <title>Gesetz über die weitere Anwendbarkeit des § 25 des Lebensmittel- und Bedarfsgegenständegesetzes</title>
@@ -18441,10 +18433,6 @@
 <item>
 <title>Gesetz über die Pflichtversicherung für Kraftfahrzeughalter</title>
 <link>http://www.gesetze-im-internet.de/pflvg/xml.zip</link>
-</item>
-<item>
-<title>Verordnung über die Zuständigkeit für die Verfolgung und Ahndung von Ordnungswidrigkeiten nach dem Pflichtversicherungsgesetz</title>
-<link>http://www.gesetze-im-internet.de/pflvgowizustv/xml.zip</link>
 </item>
 <item>
 <title>Internationales Übereinkommen zum Schutz von Pflanzenzüchtungen</title>
@@ -24569,10 +24557,6 @@
 <item>
 <title>Gesetz zur Änderung des Gesetzes zum NATO-Truppenstatut und anderer Gesetze</title>
 <link>http://www.gesetze-im-internet.de/vertlast_ndg/xml.zip</link>
-</item>
-<item>
-<title>Anordnung über die Vertretung des Bundes bei Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Bundesministeriums für Familie, Senioren, Frauen und Jugend</title>
-<link>http://www.gesetze-im-internet.de/vertrbminfsfjano/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über die Prüfung zum anerkannten Fortbildungsabschluss mit der Bezeichnung Geprüfter Berufsspezialist für Vertrieb oder Geprüfte Berufsspezialistin für Vertrieb</title>
