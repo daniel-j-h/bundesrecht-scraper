@@ -34,4 +34,5 @@ jobs:
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
 
-        ./notify.sh || exit 0
+        # botsin.space instance shut down, find new instance
+        #./notify.sh || exit 0
