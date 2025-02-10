@@ -6123,10 +6123,6 @@
 <link>http://www.gesetze-im-internet.de/co2kostaufg/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zu dem Übereinkommen des Europarats vom 23. November 2001 über Computerkriminalität</title>
-<link>http://www.gesetze-im-internet.de/comkrim_bkg/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Prüfung zum anerkannten Abschluss Geprüfter Controller/Geprüfte Controllerin</title>
 <link>http://www.gesetze-im-internet.de/contrprv/xml.zip</link>
 </item>
@@ -6201,10 +6197,6 @@
 <item>
 <title>Verordnung zur Erhebung von Gebühren und Auslagen für die Bereitstellung von Daten nach den Regelungen der Datentransparenzverordnung</title>
 <link>http://www.gesetze-im-internet.de/datragebv/xml.zip</link>
-</item>
-<item>
-<title>Verordnung zur Umsetzung der Vorschriften über die Datentransparenz</title>
-<link>http://www.gesetze-im-internet.de/datrav_2020/xml.zip</link>
 </item>
 <item>
 <title>Abkommen zwischen der Bundesrepublik Deutschland und den Vereinigten Arabischen Emiraten zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen</title>
@@ -8919,6 +8911,10 @@
 <link>http://www.gesetze-im-internet.de/fdnormv/xml.zip</link>
 </item>
 <item>
+<title>Verordnung zur Regelung der Verfahren beim Forschungsdatenzentrum Gesundheit</title>
+<link>http://www.gesetze-im-internet.de/fdzgesv/xml.zip</link>
+</item>
+<item>
 <title>Vertrag zwischen der Bundesrepublik Deutschland und dem Königreich Dänemark über eine Feste Fehmarnbeltquerung</title>
 <link>http://www.gesetze-im-internet.de/fehmarnbeltqvtr/xml.zip</link>
 </item>
@@ -10619,20 +10615,8 @@
 <link>http://www.gesetze-im-internet.de/gii061362/xml.zip</link>
 </item>
 <item>
-<title>Gesetz zu dem Fakultativprotokoll vom 25. Mai 2000 zum Übereinkommen über die Rechte des Kindes betreffend den Verkauf von Kindern, die Kinderprostitution und die Kinderpornographie</title>
-<link>http://www.gesetze-im-internet.de/gii081222/xml.zip</link>
-</item>
-<item>
-<title>Gesetz zu dem Internationalen Übereinkommen vom 20. Dezember 2006 zum Schutz aller Personen vor dem Verschwindenlassen</title>
-<link>http://www.gesetze-im-internet.de/gii090932/xml.zip</link>
-</item>
-<item>
 <title>Gesetz zu dem Abkommen vom 19. März 2010 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung von Anguilla über den steuerlichen Informationsaustausch</title>
 <link>http://www.gesetze-im-internet.de/gii101381/xml.zip</link>
-</item>
-<item>
-<title>Gesetz zum Vorschlag für einen Beschluss des Rates zur Festlegung eines Mehrjahresrahmens (2013 - 2017) für die Agentur der Europäischen Union für Grundrechte</title>
-<link>http://www.gesetze-im-internet.de/gii121378/xml.zip</link>
 </item>
 <item>
 <title>Gesetz zu dem Abkommen vom 31. Mai 2013 zwischen der Regierung der Bundesrepublik Deutschland und dem Ministerrat der Republik Albanien über die Zusammenarbeit im Sicherheitsbereich</title>
@@ -20831,10 +20815,6 @@
 <link>http://www.gesetze-im-internet.de/bseeschg/xml.zip</link>
 </item>
 <item>
-<title>Internationales Übereinkommen von 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten</title>
-<link>http://www.gesetze-im-internet.de/seeausbn_bk/xml.zip</link>
-</item>
-<item>
 <title>Verordnung über die Arbeitszeit der Arbeitnehmerinnen und Arbeitnehmer als Besatzungen von Schiffen und Booten im Geschäftsbereich des Bundesministeriums der Verteidigung</title>
 <link>http://www.gesetze-im-internet.de/seeazv/xml.zip</link>
 </item>
@@ -21195,6 +21175,10 @@
 <link>http://www.gesetze-im-internet.de/sgb_14/xml.zip</link>
 </item>
 <item>
+<title>Bekanntmachung der ab dem 1. Januar 2025 geltenden benannten Leistungsbeträge der Pflegeversicherung sowie weiterer Beträge nach dem Elften Buch Sozialgesetzbuch</title>
+<link>http://www.gesetze-im-internet.de/sgb11_30bek_2025/xml.zip</link>
+</item>
+<item>
 <title>Bekanntmachung über die Höhe der Regelleistung nach § 20 Abs. 2 des Zweiten Buches Sozialgesetzbuch für die Zeit ab 1. Juli 2005</title>
 <link>http://www.gesetze-im-internet.de/sgb2_20abs2bek/xml.zip</link>
 </item>
@@ -21249,6 +21233,10 @@
 <item>
 <title>Verordnung zur Verlängerung der Frist nach § 291 Absatz 2b Satz 6 des Fünften Buches Sozialgesetzbuch</title>
 <link>http://www.gesetze-im-internet.de/sgb5_291verlv/xml.zip</link>
+</item>
+<item>
+<title>Verordnung zur Übertragung der Ermächtigung zum Erlass einer Rechtsverordnung nach § 303f des Fünften Buch Sozialgesetzbuch</title>
+<link>http://www.gesetze-im-internet.de/sgb5_303fe_v/xml.zip</link>
 </item>
 <item>
 <title>Verordnung zur Übertragung der Befugnis zum Erlass einer Rechtsverordnung nach § 172c Absatz 3 Satz 1 des Siebten Buches Sozialgesetzbuch auf das Bundesamt für Soziale Sicherung</title>
@@ -22233,10 +22221,6 @@
 <item>
 <title>Vergütungsverordnung für Steuerberater, Steuerbevollmächtigte und Berufsausübungsgesellschaften</title>
 <link>http://www.gesetze-im-internet.de/stbgebv/xml.zip</link>
-</item>
-<item>
-<title>Entschließung 2 zu den Änderungen der Anlage des Internationalen Übereinkommens vom 7. Juli 1978 über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten</title>
-<link>http://www.gesetze-im-internet.de/stcw-code/xml.zip</link>
 </item>
 <item>
 <title>Verordnung über den automatisierten Abruf von Steuerdaten</title>
