@@ -24,8 +24,6 @@ jobs:
       run: python scrape.py
 
     - name: Commit
-      env:
-        MASTODON_TOKEN: ${{ secrets.MASTODON_BOTSINSPACE_API_ACCESS_TOKEN }}
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
@@ -33,6 +31,3 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
-
-        # botsin.space instance shut down, find new instance
-        #./notify.sh || exit 0
